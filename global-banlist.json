@@ -1,8 +1,12 @@
-{
+{100060212095038
   "facebook": {
       "100048464200178": {
-      "reason": "report cái cứt",
-      "noAdding": true
+            "reason": "report cái cứt",
+            "noAdding": true
+    },
+      "100060212095038": {
+            "reason": "report cái cứt",
+            "noAdding": true
     }
   },
   "discord": {}
